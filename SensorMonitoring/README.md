@@ -1,4 +1,4 @@
-** Simulasi Monitoring Sensor Suhu
+##Simulasi Monitoring Sensor Suhu
 
 Project ini adalah latihan untuk mata kuliah PBO dengan topik Thread. Pada project ini saya membuat simulasi monitoring sensor suhu menggunakan dua komponen utama, yaitu producer (penghasil data sensor secara berkala) dan consumer (penyimpan data sensor ke database).
 
