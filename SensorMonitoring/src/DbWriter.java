@@ -38,7 +38,6 @@ public class DbWriter implements Runnable {
                 ps.setString(3, timeString);
                 ps.executeUpdate();
 
-                // ✅ Print ke terminal setiap data masuk
                 System.out.printf(
                     "Source: %s | Value: %.2f | Time: %s%n",
                     s.source, s.value, timeString
